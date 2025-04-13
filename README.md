@@ -6,7 +6,7 @@ This MERN stack project offers an immersive exploration of space, powered by Mon
 </br>
 </br>
 
-Video Link : 
+Video Link : https://drive.google.com/drive/folders/1Pr3893Y9rIepUskBs_sq-zeuE6Z76qN2 
 
 PPT link:
 [bytevese 25.pdf](https://github.com/user-attachments/files/19724768/bytevese.25.pdf)
