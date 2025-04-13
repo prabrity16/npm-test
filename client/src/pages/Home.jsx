@@ -20,6 +20,10 @@ const Home = () => {
         <h2>Explore the Universe</h2>
         <p>Start your cosmic journey with SpaceTour!</p>
       </div> 
+
+      <div>
+        
+      </div>
     </div>
   );
 };

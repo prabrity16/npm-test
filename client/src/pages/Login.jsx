@@ -31,9 +31,11 @@ const Login = () => {
 
 
         <p style={{height:"35px",width:"500px"}}><button type="submit">Login</button></p>
+        <p style={{fontSize: "30px", width:"500px", height:"30px"}}><b>Don't have an account?</b> <a href="#">Sign Up</a></p>
       </form>
     </div>
   );
 };
 
 export default Login;
+
