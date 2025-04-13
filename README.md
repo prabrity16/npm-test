@@ -14,17 +14,17 @@ MERN = MongoDB + Express.js + React (Vite) + Node.js
 # Dependencies:
 React-router-dom, Mongoose, Cors, Dotenv, Express, Nodemon, Axios
 
-# To Run Frontend use : 
+# To Run Frontend use command : 
 npm install
 </br>
 npm run dev
 
-# To run backend :
+# To run backend use command :
 npm install
 </br>
 npm run start
 
-# Working Flow
+# Working Flow:
 1. User opens app – lands on the Home Page (/).
 <br/>
 2. Navigates using navbar – to /about, /contact, /sky-map, etc.
@@ -37,7 +37,7 @@ npm run start
 <br/>
 6. User plays puzzle or iframe game – all in one platform.
 
-# Highlights
+# Highlights:
 1. Fully responsive space-themed UI
 </br>
 2. Simple game & educational iframe
