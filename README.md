@@ -25,6 +25,7 @@ npm install
 npm run start
 
 # Working Flow:
+</br>
 1. User opens app – lands on the Home Page (/).
 <br/>
 2. Navigates using navbar – to /about, /contact, /sky-map, etc.
@@ -38,6 +39,7 @@ npm run start
 6. User plays puzzle or iframe game – all in one platform.
 
 # Highlights:
+</br>
 1. Fully responsive space-themed UI
 </br>
 2. Simple game & educational iframe
