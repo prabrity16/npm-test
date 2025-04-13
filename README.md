@@ -11,7 +11,11 @@ Video Link : https://drive.google.com/drive/folders/1Pr3893Y9rIepUskBs_sq-zeuE6Z
 PPT link:
 [bytevese 25.pdf](https://github.com/user-attachments/files/19724768/bytevese.25.pdf)
 
-# Technologies used: React, Redux, Node.js, Express.js, MongoDB
+# Technologies used: 
+React, Redux, Node.js, Express.js, MongoDB
+
+# Dependencies
+react-router-dom, mongoose, cors, dotenv, express, nodemon, axios
 
 # To Run Frontend use : 
 npm install
