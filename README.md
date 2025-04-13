@@ -15,7 +15,7 @@ PPT link:
 React, Redux, Node.js, Express.js, MongoDB
 
 # Dependencies
-react-router-dom, mongoose, cors, dotenv, express, nodemon, axios
+React-router-dom, Mongoose, Cors, Dotenv, Express, Nodemon, Axios
 
 # To Run Frontend use : 
 npm install
